@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+.number{
+    font-size: 15em;
+}
+.button{
+    font-size: 2em;
+    margin-top:20%;
+}
